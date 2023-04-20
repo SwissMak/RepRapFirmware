@@ -1,0 +1,1 @@
+This file is no longer maintained.  See https://github.com/Duet3D/RepRapFirmware/wiki/Changelog-RRF-3.x instead.
